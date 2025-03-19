@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    background-color: black;
+    justify-content: center;
+    height: 100%; 
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #ffffff;
+    padding-top: 60px;
+  }
+  
+  .timeline-section {
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 20px;
+    width: 800px;
+    background: #f9f9f9;
+  }
+  
+  .TimelineDot {
+    width: 15px;
+    height: 15px;
+  }
+  
+  .TimelineContent {
+    font-size: 1.2rem;
+    color: #444;
+  }
+  
+  
